@@ -1,5 +1,5 @@
-# bootstrap-portfolio
+# Filipino Institute Activity
 
-Demo
+Week 8: Bootstrap Framework
 
 https://lazean214.github.io/bootstrap-portfolio/
